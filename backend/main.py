@@ -95,6 +95,10 @@ async def agent_info():
             {
                 "name": "get_product_details",
                 "description": "Get detailed product information"
+            },
+            {
+                "name": "generate_poem",
+                "description": "Generate a creative poem about any topic"
             }
         ],
         "protocol_version": "AG-UI 1.0"
